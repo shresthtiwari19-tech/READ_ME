@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=SANKALP%20SHUKLA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=SHRESTH%20TIWARI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60" />
 </p>
 
 <h1 align="center">Hi 👋, I'm SHRESTH TIWARI</h1>
@@ -36,15 +36,15 @@
 
 <p align="left">
 
-<a href="https://github.com/sankalshukla700-art">
+<a href="github.com/shresthtiwari19-tech">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/sankalp-shukla-6888b237a">
+<a href="linkedin.com/in/shresth-tiwari-660a49350 ">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:sankalshukla700@gmail.com">
+<a href="mailto:shresthtiwari78@gmail.com ">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45"/>
 </a>
 
@@ -134,7 +134,7 @@
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpshukla700-art&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthtiwari19-tech&theme=tokyo-night"/>
 </p>
 
 ---
